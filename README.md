@@ -3,7 +3,7 @@ Simple testing of mongodb cluster setup changes using Vagrant
 
 # Usage
 
-``
+```
 cd vagrant-mongodb-cluster && vagrant up
 ...
 vagrant ssh mongodb01.local
